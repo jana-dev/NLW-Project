@@ -1,5 +1,5 @@
 # Projeto Next Level Week
 
-# Utilizando HTMl, CSS e JS
+# Utilizando HTML, CSS e JS
 
 # Em andamento
